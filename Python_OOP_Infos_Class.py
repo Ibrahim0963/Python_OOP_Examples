@@ -23,7 +23,7 @@ class infos2(infos):
         print("Your sex is : ", self.sex)
 
 
-#Main App
+
         
 name = input("*Enter your name :")
 while name == "":
