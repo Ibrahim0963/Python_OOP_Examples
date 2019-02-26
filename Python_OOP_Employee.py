@@ -8,7 +8,7 @@ class employee():
     def salary(self,days,money):
         print("Your salary of ", days ," days work is : ",(days*money), "$")
 
-# Main App
+
 
 #name = input("Enter your name : ")
 #work_days = input("Enter your work_days (day 8 hours work) : ")
