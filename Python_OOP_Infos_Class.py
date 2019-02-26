@@ -1,9 +1,9 @@
 # A simple class make in python
-# ibrahim_Akil
+# Ibrahim alakeel
 
 class infos():
     def __init__(self,name, lastname, age, address, sex):
-        self.name= name
+        self.name = name
         self.lastname = lastname
         self.age = age
         self.address = address
