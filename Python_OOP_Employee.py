@@ -1,3 +1,5 @@
+#ibrahim alakeel
+
 class employee():
     def employer(self,name):
         print("your name is : ",name)
@@ -19,3 +21,9 @@ e.employer("ibrahim")
 e.work_days(12)
 e.money_per_hour(50)
 e.salary(12,50)
+
+
+
+
+
+####
